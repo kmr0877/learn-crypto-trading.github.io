@@ -15,11 +15,11 @@ source "https://rubygems.org"
 
 gem "jekyll"
 gem "minimal-mistakes-jekyll"
-gem "jekyll-target-blank"
+gem "jekyll-target-blank", ">= 2.0.0"
 gem "jekyll-optional-front-matter"
 gem "jekyll-readme-index"
 gem "jekyll-redirect-from"
-gem "jekyll-mentions"
+gem "jekyll-mentions", ">= 1.5.1"
 
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"
