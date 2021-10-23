@@ -19,7 +19,7 @@ gem "jekyll-target-blank"
 gem "jekyll-optional-front-matter"
 gem "jekyll-readme-index"
 gem "jekyll-redirect-from"
-gem "jekyll-mentions"
+gem "jekyll-mentions", ">= 1.5.1"
 
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"
